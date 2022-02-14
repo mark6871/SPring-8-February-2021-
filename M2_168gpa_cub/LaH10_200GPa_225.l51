@@ -1,0 +1,10 @@
+*******************************************************************************
+contour
+end contour
+dist
+end dist
+fourier
+end fourier
+refine
+  cycles 3 autkeys 0 dolebail 1
+end refine

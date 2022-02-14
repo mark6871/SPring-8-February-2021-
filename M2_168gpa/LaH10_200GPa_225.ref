@@ -1,0 +1,275 @@
+Refinement program                                                                                                  page=  1
+structure :                                                                                                11:58:11 18-02-21 
+
+The following lines were read as a control data : 
+=>cycles 1 autkeys 0 dolebail 1<=                                                    
+
+******************
+* Run parameters *
+******************
+
+Profile refinement (le Bail) in 1 cycles will be performed
+The refinement will stop if max(change/s.u.)<0.05
+The damping factor will be reduced by the factor 2 if wRp is larger by more than 10% from the previous value
+In the case that in 3 consecutive cycles refinement converge, the damping factor will change back
+Atoms reaching Uiso>0.2 will be disabled from the refinement
+Calculation of sig(I) is as minimum from profile fit and error propagation formula                                              
+Only not-matching reflections flagged by # (see below) will be printed
+Print of reflections after last cycle of refinement
+Reflections with I<3sig(I) will be classified as unobserved - flag *
+Reflections with |Fo-Fc|>3sig(I) will be flagged by #
+Correlations larger than 0.9 will be printed
+Automatic procedure for setting of refinement keys will be applied
+
+*********************
+* Powder parameters *
+*********************
+
+5 terms of Legendre polynoms will be used to describe background
+Pseudo-Voigt profile function
+The profile is cut outside 8*FWHM range
+Weighting function will be used during leBail decomposition
+
+*************
+* Radiation *
+*************
+
+Radiation type: X-rays synchrotron
+Wave length:   0.41300
+
+******************
+* Structure data *
+******************
+
+Cell parameters       :     4.9385    4.7717    4.8407    90.000    90.000    90.000    Volume :      114.1
+Reciprocal parameters :   0.202491  0.209569  0.206580    90.000    90.000    90.000    Volume :   0.008766
+
+Non-centrosymmetric space group: ???  Number : 1
+
+List of centring vectors:
+
+  0.000000  0.000000  0.000000
+
+Symmetry operators:
+
+     x    y    z
+Refinement program                                                                                                  page=  2
+structure :                                                                                                11:58:11 18-02-21 
+
+
+                           Source and type of used form-factors
+
+La       -1.225   0.946          Atomic scattering tables - in steps as in IT, vol.C
+                                   57.0000  56.9260  56.7080  56.3600  55.9000  55.3510  54.7360  54.0760
+                                   53.3880  52.6870  51.9820  51.2780  50.5800  49.8880  49.2020  48.5230
+                                   47.8490  47.1820  46.5190  45.8620  45.2120  43.9320  42.6860  42.0780
+                                   41.4810  40.3210  39.2120  38.1530  37.1450  36.6590  36.1850  35.2700
+                                   34.3970  33.5620  32.7600  32.3700  31.9880  31.2430  30.5230  28.8170
+                                   27.2310  25.7590  24.4010  22.0310  20.1060  18.5610  17.3000  16.2270
+                                   15.2650  14.3620  13.4890  12.6360  11.8070  11.0090  10.2530   9.5500
+                                    6.9170   5.5500   4.8200   4.2700   3.2400   2.4100
+
+H         0.000   0.000          Atomic scattering tables - in steps as in IT, vol.C
+                                    1.0000   0.9924   0.9704   0.9352   0.8892   0.8350   0.7752   0.7125
+                                    0.6492   0.5871   0.5277   0.4201   0.3301   0.2573   0.1998   0.1552
+                                    0.1208   0.0945   0.0744   0.0592   0.0474   0.0383   0.0311   0.0254
+                                    0.0208   0.0171   0.0140   0.0116   0.0096   0.0080   0.0066   0.0056
+                                    0.0047   0.0040   0.0035   0.0031   0.0027   0.0025   0.0022   0.0020
+                                    0.0018   0.0016   0.0015   0.0013   0.0011   0.0010   0.0000   0.0000
+                                    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+                                    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+
+
+F(000)  for X-rays    :     556.0000
+F(000)  for neutrons  :    -307.9801
+
+
+Equations induced by symmetry :
+
+alpha=90
+beta=90
+gamma=90
+
+*************************************
+* User defined constrains/restrains *
+*************************************
+
+None
+
+******************************
+* User defined keep commands *
+******************************
+
+None
+Warning - the file "LaH10_200GPa_225.prf"
+          attempt to open already opened file.
+
+
+
+
+
+Refinement program                                                                                                  page=  3
+structure :                                                                                                11:58:11 18-02-21 
+
+
+Last screen information window:
+
+--------------------------------------------------------------------------
+|Profile R factors :[2003/1+1],    Damping factor:   1.0000              |
+|GOF   =  4.07 Rp    = 30.48 wRp    = 42.82                              |
+|Last wRp: 43.23                                                         |
+|Maximum change/s.u. :   -2.0098 for a                                   |
+--------------------------------------------------------------------------
+
+**********************
+* R-factors overview *
+**********************
+
+Cycle    Rp      wRp     cRp    cwRp   npnts   nppwd      np  npnts/np    damp   gof av ch/su       max ch/su                   
+  0    30.49   43.23   28.54   33.28    2003       1       2  1001.500 1.0000   4.11   1.8225    -2.0098 a                      
+  1    30.48   42.82   28.53   32.97    2003       1       2  1001.500                                                          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Refinement program                                                                                                  page=  4
+structure :                                                                                                11:58:11 18-02-21 
+
+
+********************
+* Changes overview *
+********************
+
+More realisitic s.u.'s can be achieved by applying the Berar's factor :    7.259
+The correction hasn't been applied
+
+           PrfScale
+   0        0.098252* -1.64
+   1        0.097049
+  su        0.000403
+================================================================================================================================
+           TOverall   sclam/2
+   0        0.000000  0.000000   0.00
+   1        0.000000  0.000000
+  su        0.000000  0.000000
+================================================================================================================================
+             shift     sycos     sysin
+   0        0.000000  0.000000  0.000000   0.00
+   1        0.000000  0.000000  0.000000
+  su        0.000000  0.000000  0.000000
+================================================================================================================================
+             bckg1     bckg2     bckg3     bckg4     bckg5
+   0       -6.049015 -15.38744 -10.07626  4.475967  7.954844   0.00
+   1       -6.049015 -15.38744 -10.07626  4.475967  7.954844
+  su        0.000000   0.00000   0.00000  0.000000  0.000000
+================================================================================================================================
+               a         b         c       alpha     beta      gamma     Volume    Density
+   0        4.938495* 4.771699  4.840735  90.00000  90.00000  90.00000  114.0720  17.64379  -2.01
+   1        4.937258  4.771699  4.840735  90.00000  90.00000  90.00000  114.0434  17.64822
+  su        0.000616  0.000000  0.000000   0.00000   0.00000   0.00000    0.0142   0.00220
+================================================================================================================================
+              GU        GV        GW        GP
+   0        697.4106 -209.9308  13.85811  0.000000   0.00
+   1        697.4106 -209.9308  13.85811  0.000000
+  su          0.0000    0.0000   0.00000  0.000000
+================================================================================================================================
+              LX        LXe       LY        LYe
+   0        0.000000  0.000000  93.38813  0.000000   0.00
+   1        0.000000  0.000000  93.38813  0.000000
+  su        0.000000  0.000000   0.00000  0.000000
+================================================================================================================================
+
+There were no correlations larger than  0.900 in the last refinement cycle
+
+
+
+
+
+
+
+Refinement program                                                                                                  page=  5
+structure :                                                                                                11:58:11 18-02-21 
+
+
+
+Program started at 11:58:11 ended   at 11:58:16 cpu time :      4.61
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

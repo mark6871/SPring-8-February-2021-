@@ -1,0 +1,24 @@
+Version Jana2006
+title
+cell 4.927214 4.723023 4.839367 90.8991 90.5045 87.7521
+esdcell 0.000568 0.000912 0.000605 0.0156 0.0162 0.0165
+spgroup P1 1 1
+lattice P
+symmetry x y z
+unitsnumb 1
+chemform La H
+formtab -62
+atom La atradius 1.88 color 90196073
+atom H atradius 0.46 color 255204204
+roundmethod 1
+end
+*******************************************************************************
+contour
+end contour
+dist
+end dist
+fourier
+end fourier
+refine
+  cycles 100 autkeys 0 dolebail 1
+end refine

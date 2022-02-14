@@ -1,0 +1,275 @@
+Refinement program                                                                                                  page=  1
+structure :                                                                                                20:50:24 18-02-21 
+
+The following lines were read as a control data : 
+=>cycles 100 autkeys 0 dolebail 1<=                                                  
+
+******************
+* Run parameters *
+******************
+
+Profile refinement (le Bail) in 100 cycles will be performed
+The refinement will stop if max(change/s.u.)<0.05
+The damping factor will be reduced by the factor 2 if wRp is larger by more than 10% from the previous value
+In the case that in 3 consecutive cycles refinement converge, the damping factor will change back
+Atoms reaching Uiso>0.2 will be disabled from the refinement
+Calculation of sig(I) is as minimum from profile fit and error propagation formula                                              
+Only not-matching reflections flagged by # (see below) will be printed
+Print of reflections after last cycle of refinement
+Reflections with I<3sig(I) will be classified as unobserved - flag *
+Reflections with |Fo-Fc|>3sig(I) will be flagged by #
+Correlations larger than 0.9 will be printed
+Automatic procedure for setting of refinement keys will be applied
+
+*********************
+* Powder parameters *
+*********************
+
+5 terms of Legendre polynoms will be used to describe background
+Pseudo-Voigt profile function
+The profile is cut outside 8*FWHM range
+Weighting function will be used during leBail decomposition
+
+*************
+* Radiation *
+*************
+
+Radiation type: X-rays synchrotron
+Wave length:   0.41300
+
+******************
+* Structure data *
+******************
+
+Cell parameters       :     4.9272    4.7231    4.8394    90.899    90.504    87.753    Volume :      112.5
+Reciprocal parameters :   0.203117  0.211916  0.206671    89.120    89.531    92.240    Volume :   0.008888
+
+Non-centrosymmetric space group: P1  Number : 1
+
+List of centring vectors:
+
+  0.000000  0.000000  0.000000
+
+Symmetry operators:
+
+     x    y    z
+Refinement program                                                                                                  page=  2
+structure :                                                                                                20:50:24 18-02-21 
+
+
+                           Source and type of used form-factors
+
+La       -1.225   0.946          Atomic scattering tables - in steps as in IT, vol.C
+                                   57.0000  56.9260  56.7080  56.3600  55.9000  55.3510  54.7360  54.0760
+                                   53.3880  52.6870  51.9820  51.2780  50.5800  49.8880  49.2020  48.5230
+                                   47.8490  47.1820  46.5190  45.8620  45.2120  43.9320  42.6860  42.0780
+                                   41.4810  40.3210  39.2120  38.1530  37.1450  36.6590  36.1850  35.2700
+                                   34.3970  33.5620  32.7600  32.3700  31.9880  31.2430  30.5230  28.8170
+                                   27.2310  25.7590  24.4010  22.0310  20.1060  18.5610  17.3000  16.2270
+                                   15.2650  14.3620  13.4890  12.6360  11.8070  11.0090  10.2530   9.5500
+                                    6.9170   5.5500   4.8200   4.2700   3.2400   2.4100
+
+H         0.000   0.000          Atomic scattering tables - in steps as in IT, vol.C
+                                    1.0000   0.9924   0.9704   0.9352   0.8892   0.8350   0.7752   0.7125
+                                    0.6492   0.5871   0.5277   0.4201   0.3301   0.2573   0.1998   0.1552
+                                    0.1208   0.0945   0.0744   0.0592   0.0474   0.0383   0.0311   0.0254
+                                    0.0208   0.0171   0.0140   0.0116   0.0096   0.0080   0.0066   0.0056
+                                    0.0047   0.0040   0.0035   0.0031   0.0027   0.0025   0.0022   0.0020
+                                    0.0018   0.0016   0.0015   0.0013   0.0011   0.0010   0.0000   0.0000
+                                    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+                                    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+
+
+F(000)  for X-rays    :     556.0000
+F(000)  for neutrons  :    -307.9801
+
+
+*************************************
+* User defined constrains/restrains *
+*************************************
+
+None
+
+******************************
+* User defined keep commands *
+******************************
+
+None
+
+Last screen information window:
+
+--------------------------------------------------------------------------
+|Profile R factors :[2003/6+0],    Damping factor:   1.0000              |
+|GOF   =  2.69 Rp    = 12.27 wRp    = 28.27                              |
+|Last wRp: 28.27                                                         |
+|Maximum change/s.u. :    0.0382 for beta                                |
+--------------------------------------------------------------------------
+
+
+
+
+Refinement program                                                                                                  page=  3
+structure :                                                                                                20:50:24 18-02-21 
+
+
+**********************
+* R-factors overview *
+**********************
+
+Cycle    Rp      wRp     cRp    cwRp   npnts   nppwd      np  npnts/np    damp   gof av ch/su       max ch/su                   
+  0    12.27   28.27   13.04   29.41    2003       6       6   333.833 1.0000   2.69   0.0215     0.0382 beta                   
+  1    12.27   28.27   13.04   29.41    2003       6       6   333.833                                                          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Refinement program                                                                                                  page=  4
+structure :                                                                                                20:50:24 18-02-21 
+
+
+********************
+* Changes overview *
+********************
+
+More realisitic s.u.'s can be achieved by applying the Berar's factor :    5.793
+The correction hasn't been applied
+
+           PrfScale
+   0        0.116322   0.00
+   1        0.116325
+  su        0.000000
+================================================================================================================================
+           TOverall   sclam/2
+   0        0.000000  0.000000   0.00
+   1        0.000000  0.000000
+  su        0.000000  0.000000
+================================================================================================================================
+             shift     sycos     sysin
+   0        0.000000  0.000000  0.000000   0.00
+   1        0.000000  0.000000  0.000000
+  su        0.000000  0.000000  0.000000
+================================================================================================================================
+             bckg1     bckg2     bckg3     bckg4     bckg5
+   0        5.920836  1.315031 -7.746571 -1.979772  2.836449   0.00
+   1        5.920836  1.315031 -7.746571 -1.979772  2.836449
+  su        0.000000  0.000000  0.000000  0.000000  0.000000
+================================================================================================================================
+               a         b         c       alpha     beta      gamma     Volume    Density
+   0        4.927215  4.723050  4.839370  90.89954  90.50391* 87.75250  112.5150  17.88794   0.04
+   1        4.927214  4.723023  4.839367  90.89909  90.50452  87.75208  112.5143  17.88806
+  su        0.000568  0.000912  0.000605   0.01562   0.01625   0.01651    0.0250   0.00397
+================================================================================================================================
+              GU        GV        GW        GP
+   0        18267.88 -4222.392  185.1427  0.000000   0.00
+   1        18267.88 -4222.392  185.1427  0.000000
+  su            0.00     0.000    0.0000  0.000000
+================================================================================================================================
+              LX        LXe       LY        LYe
+   0        0.000000  0.000000  3.253517  0.000000   0.00
+   1        0.000000  0.000000  3.253517  0.000000
+  su        0.000000  0.000000  0.000000  0.000000
+================================================================================================================================
+
+There were no correlations larger than  0.900 in the last refinement cycle
+
+
+
+
+
+
+
+Refinement program                                                                                                  page=  5
+structure :                                                                                                20:50:24 18-02-21 
+
+
+
+Program started at 20:50:25 ended   at 20:50:26 cpu time :      0.95
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
