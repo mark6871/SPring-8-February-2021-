@@ -1,0 +1,18 @@
+
+#=======================================================================
+# Refine
+#=======================================================================
+
+_exptl_crystal_F_000                     268
+_refine_ls_weighting_scheme              sigma
+_refine_ls_number_constraints            0
+_refine_ls_number_restraints             0
+_pd_proc_ls_prof_R_factor                0.2950
+_pd_proc_ls_prof_wR_factor               0.4387
+_pd_proc_ls_prof_wR_expected             0.1509
+_refine_ls_number_parameters             3
+_refine_ls_goodness_of_fit_all           2.91
+_refine_ls_goodness_of_fit_ref           2.91
+_refine_ls_shift/su_max                  3.0132
+_refine_ls_shift/su_mean                 1.0275
+
